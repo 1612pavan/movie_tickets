@@ -1,6 +1,6 @@
 
 import sys
-import book_tickets as bt
+import mini_project as bt
 
 
 
